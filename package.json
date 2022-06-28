@@ -1,0 +1,33 @@
+{
+  "name": "@hzzlyxx/eslint-config-ts",
+  "version": "1.2.0",
+  "description": "eslint config ts",
+  "main": "index.js",
+  "keywords": [
+    "eslint"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzzlyxx/eslint-config-ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzzlyxx/eslint-config-ts/issues"
+  },
+  "homepage": "https://github.com/hzzlyxx/eslint-config-ts#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "*",
+    "@typescript-eslint/parser": "*",
+    "eslint": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-config-prettier": "*",
+    "eslint-plugin-import": "*",
+    "typescript": "*"
+  }
+}
