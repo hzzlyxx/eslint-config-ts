@@ -6,7 +6,7 @@
 
 ```js
 module.exports = {
-	extends: '@hzzlyxx/eslint-config-ts',
-	...
+  extends: '@hzzlyxx/eslint-config-ts',
+  ...
 };
 ```
