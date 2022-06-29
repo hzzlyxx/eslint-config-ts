@@ -1,4 +1,6 @@
-on: push
+name: publish
+
+on: [push, pull_request]
 
 jobs:
   publish:
