@@ -1,6 +1,6 @@
 {
   "name": "@hzzlyxx/eslint-config-ts",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "eslint config ts",
   "main": "index.js",
   "keywords": [
