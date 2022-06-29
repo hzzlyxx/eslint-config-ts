@@ -24,7 +24,7 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   rules: {
     'no-tabs': 0,
-    'indent': ['error', 'tab'],
+    'indent': ['error', 2],
     'semi': [2, 'always'],
     'curly': ['error', 'multi-line'],
     'camelcase': 0,
